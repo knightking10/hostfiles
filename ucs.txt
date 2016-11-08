@@ -1,0 +1,3 @@
+  +Bugs fix
+  +Add a new UI.
+  +Clash of clans 8.551.4 beta support
