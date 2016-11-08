@@ -1,1 +1,4 @@
-This is latest version
+A new update is availble
+-Version 1.1
+  +Add a new start page which contains popular pages
+  +New coc theme
